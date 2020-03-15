@@ -16,6 +16,7 @@ View demo here: https://covid19.helloworld.my.id/
 ## Credit
 - https://github.com/mathdroid/covid19 for data source
 - https://kawalcovid19.harippe.id/api/summary for data source
+- https://nauval.in/ for template <a href="https://demo.getstisla.com/">Stisla</a>
 
 ## Disclaimer
 For educational purpose only! Use the information in this site at your own risk.
